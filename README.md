@@ -11,7 +11,7 @@ This repository contains my solution for the Kaggle competition: House Prices �
 - [Results](#results)
 - [Dataset ](#dataset )
 - [What I Learned](#what-i-learned)
-  
+- [Note](#note)  
 ## 📌 Overview
 The goal of this project is to develop a machine learning model that accurately predicts home sale prices. This competition is an excellent opportunity to practice regression techniques, feature engineering, and model evaluation.
 
@@ -45,3 +45,6 @@ The dataset is not included in this repository due to Kaggle’s terms of use.
 ## 📚 What I Learned
 - Practical application of regression models in real-world data.
 - Importance of data preprocessing and domain knowledge in feature engineering.
+
+## Note 
+- Skewness of SalePrice: 1.88 but sometimes I get '- 0.18', that is why I did not modify the target variable while training as well as testing the model.
