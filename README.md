@@ -9,7 +9,7 @@ This repository contains my solution for the Kaggle competition: House Prices â€
 - [Overview](#overview)
 - [Approach](#approach)
 - [Results](#results)
-- [Dataset ](#dataset )
+- [Dataset](#dataset )
 - [What I Learned](#what-i-learned)
 - [Note](#note)  
 ## ðŸ“Œ Overview
